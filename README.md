@@ -1,5 +1,6 @@
-Saina - Image based test automation framework ready for cloud
-==============================================================
+Saina  
+=====
+(Computer Vision Test Automation scaled on Cloud)
 
 The Dream
 ---------
@@ -7,12 +8,12 @@ The Dream
 Saina is a image recognition based test automation framework. Saina is primarily focussed on testing in the cloud and uses AWS. For image recognition and related features we are using sikuli and OpenCV.
 
 The platforms that we are currently building for are 
-1. Android
-1. IOS
-1. Blackberry
-1. Windows
-1. OSX
-1. Linux
+* Android
+* IOS
+* Blackberry
+* Windows
+* OSX
+* Linux
 
 Using saina user can write image based UI automation test cases for the application and run them on AWS cloud. If your application has similar UI on multiple platforms you can reuse the test case on all platforms. 
 
